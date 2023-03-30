@@ -105,7 +105,7 @@ OR
 # 3. Open package.json and modify scripts to use npm instead of yarn
 # 4. Run above commands again
 npm i
-npm run start
+npm run npm-start
 ```
 
 Wait, there's more..
