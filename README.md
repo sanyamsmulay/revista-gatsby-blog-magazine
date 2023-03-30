@@ -98,15 +98,14 @@ yarn start
 ```
 
 OR
-
 ```bash
-npm i
-npm run start
 # You might get an error as we use yarn. If you do:
 # 1. Delete yarn.lock
 # 2. Delete node_modules if it exists, otherwise ignore
 # 3. Open package.json and modify scripts to use npm instead of yarn
 # 4. Run above commands again
+npm i
+npm run start
 ```
 
 Wait, there's more..
